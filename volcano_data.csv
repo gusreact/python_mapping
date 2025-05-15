@@ -1,0 +1,61 @@
+id,name,location,status,elevation,lat,lon
+1,Mount St. Helens,"Washington, USA",Active,2549,46.1912,-122.1944
+2,Mauna Loa,"Hawaii, USA",Active,4170,19.4756,-155.6081
+3,Mount Fuji,"Honshu, Japan",Dormant,3776,35.3606,138.7274
+4,Mount Etna,"Sicily, Italy",Active,3329,37.7510,14.9934
+5,Eyjafjallajökull,Iceland,Dormant,1651,63.6333,-19.6167
+6,Popocatépetl,Mexico,Active,5426,19.0236,-98.6221
+7,Mount Vesuvius,Italy,Active,1281,40.8216,14.4268
+8,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+9,Mount Nyiragongo,DR Congo,Active,3470,-1.5200,29.2420
+10,Mount Meru,Tanzania,Dormant,4565,-3.3000,36.7167
+11,Mount Rainier,"Washington, USA",Active,4392,46.8523,-121.7603
+12,Mount Mayon,Philippines,Active,2462,13.2570,123.6850
+13,Mount Ruapehu,New Zealand,Active,2797,-39.2833,175.5733
+14,Mount Tambora,Indonesia,Active,2850,-8.25,118.0000
+15,Mount Taal,Philippines,Active,311,-14.0022,120.9917
+16,Mount Aso,Japan,Active,1592,32.8844,131.1044
+17,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+18,Mount Fuji,Japan,Dormant,3776,35.3606,138.7274
+19,Mount Etna,Italy,Active,3329,37.7510,14.9934
+20,Mount St. Helens,USA,Active,2549,46.1912,-122.1944
+21,Mount Vesuvius,Italy,Active,1281,40.8216,14.4268
+22,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+23,Mount Nyiragongo,DR Congo,Active,3470,-1.5200,29.2420
+24,Mount Meru,Tanzania,Dormant,4565,-3.3000,36.7167
+25,Mount Rainier,USA,Active,4392,46.8523,-121.7603
+26,Mount Mayon,Philippines,Active,2462,13.2570,123.6850
+27,Mount Ruapehu,New Zealand,Active,2797,-39.2833,175.5733
+28,Mount Tambora,Indonesia,Active,2850,-8.25,118.0000
+29,Mount Taal,Philippines,Active,311,-14.0022,120.9917
+30,Mount Aso,Japan,Active,1592,32.8844,131.1044
+31,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+32,Mount Fuji,Japan,Dormant,3776,35.3606,138.7274
+33,Mount Etna,Italy,Active,3329,37.7510,14.9934
+34,Mount St. Helens,USA,Active,2549,46.1912,-122.1944
+35,Mount Vesuvius,Italy,Active,1281,40.8216,14.4268
+36,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+37,Mount Nyiragongo,DR Congo,Active,3470,-1.5200,29.2420
+38,Mount Meru,Tanzania,Dormant,4565,-3.3000,36.7167
+39,Mount Rainier,USA,Active,4392,46.8523,-121.7603
+40,Mount Mayon,Philippines,Active,2462,13.2570,123.6850
+41,Mount Ruapehu,New Zealand,Active,2797,-39.2833,175.5733
+42,Mount Tambora,Indonesia,Active,2850,-8.25,118.0000
+43,Mount Taal,Philippines,Active,311,-14.0022,120.9917
+44,Mount Aso,Japan,Active,1592,32.8844,131.1044
+45,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+46,Mount Fuji,Japan,Dormant,3776,35.3606,138.7274
+47,Mount Etna,Italy,Active,3329,37.7510,14.9934
+48,Mount St. Helens,USA,Active,2549,46.1912,-122.1944
+49,Mount Vesuvius,Italy,Active,1281,40.8216,14.4268
+50,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+51,Mount Nyiragongo,DR Congo,Active,3470,-1.5200,29.2420
+52,Mount Meru,Tanzania,Dormant,4565,-3.3000,36.7167
+53,Mount Rainier,USA,Active,4392,46.8523,-121.7603
+54,Mount Mayon,Philippines,Active,2462,13.2570,123.6850
+55,Mount Ruapehu,New Zealand,Active,2797,-39.2833,175.5733
+56,Mount Tambora,Indonesia,Active,2850,-8.25,118.0000
+57,Mount Taal,Philippines,Active,311,-14.0022,120.9917
+58,Mount Aso,Japan,Active,1592,32.8844,131.1044
+59,Mount Merapi,Indonesia,Active,2911,-7.5417,110.4467
+60,Mount Fuji,Japan,Dormant,3776,35.3606,138.7274
